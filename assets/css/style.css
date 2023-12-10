@@ -1763,7 +1763,7 @@ Footer Section style
 .widget_recent {
 	position:absolute;
 	right:20px;
-	bottom:7px;
+	bottom:10px;
 }
 
 .widget_recent ul li a i {
