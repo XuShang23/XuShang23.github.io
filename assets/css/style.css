@@ -1746,7 +1746,7 @@ Footer Section style
 	/*background-color: rgba(66, 111, 163,0.1);*/
 	color:'black';
 	border-radius:10px;
-	height:160px;
+	height:fit-content;
 }
 
 .recent-des p {
@@ -1763,7 +1763,7 @@ Footer Section style
 .widget_recent {
 	position:absolute;
 	right:20px;
-	bottom:20px;
+	bottom:7px;
 }
 
 .widget_recent ul li a i {
