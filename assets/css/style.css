@@ -1244,7 +1244,8 @@ Portfolio section style
 	height: 100%;
 	background-color: rgba(0, 0, 0, 0.60);
 	padding-top: 12%;
-	padding-left,padding-right: 10px;
+	padding-left:10px;
+	padding-right: 10px;
 	opacity: 0;
 	transition: all 0.4s;
 }
@@ -1823,4 +1824,9 @@ a:hover {
 }
 .bigger{
 	font-size: 1.2rem
+}
+
+/* news  */
+.recentNews{
+	list-style:square;
 }
