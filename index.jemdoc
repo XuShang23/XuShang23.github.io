@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{home.html}, nofooter
+== Xu Shang
+
+~~~
+{}{img_left}{img/me2.png}{alt text}{200}{200}{}
+I am currently a second year Ph.D. student in Electrical and Computer Engineering at the University of California San Diego, 
+working with Professor [https://zhengy09.github.io/index.html Yang Zheng]. \n
+
+Previously, I was a master student at University of Michigan, Ann Arbor, majoring in Mechanical Engineering. 
+I worked in Biped robotics lab with Professor [https://grizzle.robotics.umich.edu/ Jessy Grizzle]. \n
+
+My research interests lie in control and path planning. Specifically, I’m interested in realizing safe motion planning 
+and control for high-order systems with uncertainties (e.g., multi-agents systems, and CAVs in mixed traffic systems).
+~~~
+
+=== Updates
+- \[11\/2024\] Our paper [https://arxiv.org/abs/2409.16389 Willems’ Fundamental Lemma for Nonlinear Systems with Koopman Linear Embedding] was accepted for publication 
+in the IEEE Control Systems Letters (L-CSS). Thanks to Prof. [http://terrano.ucsd.edu/jorge/ Jorge Cortes] and my advisor Prof. [https://zhengy09.github.io/ Yang Zheng].
+- \[11\/2024\] Our paper [https://arxiv.org/abs/2401.15826 Decentralized Robust Data-driven Predictive Control for Smoothing Mixed Traffic Flow] was accepted for 
+publication in the IEEE Transactions on Intelligent Transportation Systems. Thanks to my great collaborator Dr. [https://wjiawei.com/ Jiawei Wang] and 
+my advisor Prof. [https://zhengy09.github.io/ Yang Zheng].
+- \[04\/2024\] Presented a talk [files/sccw_1.pdf Smoothing Mixed Traffic with Robust Data-driven Predictive Control for Connected Autonomous Vehicles] in the
+43rd Southern California Control Workshop.
+- \[03\/2024\] Our paper [https://proceedings.mlr.press/v242/shang24a.html Convex Approximations for a Bi-level Formulation of Data-Enabled Predictive Control] was accepted for publication
+in the L4DC and here is the [files/L4DC_poster.pdf poster]. Thanks to my advisor Prof. [https://zhengy09.github.io/ Yang Zheng].
+- \[01\/2024\] Presented a talk [https://drive.google.com/file/d/1rLv_lBOBuC0Sf4_fW_Ld_oZGTm-xJNSR/view Convex approximations of Data-enabled Predictive Control with Applications to Mixed Traffic] in the
+[https://sites.google.com/ucsd.edu/soc-lab/home?authuser=0 CO-PI seminar].
+- \[01\/2024\] Our paper [https://ieeexplore.ieee.org/abstract/document/10645044 Smoothing Mixed Traffic with Robust Data-driven Predictive Control for Connected and Autonomous Vehicles] was 
+accepted for publication in ACC 2024. Thanks to my great collaborator Dr. [https://wjiawei.com/ Jiawei Wang] and 
+my advisor Prof. [https://zhengy09.github.io/ Yang Zheng].

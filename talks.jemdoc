@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{talks.html}, nofooter
+== Talks
+
+- [files/sccw_1.pdf Smoothing Mixed Traffic with Robust Data-driven Predictive Control for Connected Autonomous Vehicles]
+    -- 43rd Southern California Control Workshop
+- [https://drive.google.com/file/d/1rLv_lBOBuC0Sf4_fW_Ld_oZGTm-xJNSR/view Convex approximations of Data-enabled Predictive Control with Applications to Mixed Traffic]
+    -- CO-PI Seminar

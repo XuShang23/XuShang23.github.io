@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+
+== Publications
+
+For the updated list of publications, please see [https://scholar.google.com/citations?user=PVBx6FsAAAAJ&hl=en my google scholar page].
+
+=== Preprint
+
+=== Journal 
+. [https://arxiv.org/abs/2401.15826 Decentralized Robust Data-driven Predictive Control for Smoothing Mixed Traffic Flow] \n
+/IEEE Transactions on Intelligent Transportation Systems/ \n
+*Xu Shang*, Jiawei Wang, Yang Zheng
+. [https://arxiv.org/abs/2409.16389 Willems' Fundamental Lemma for Nonlinear Systems with Koopman Linear Embedding] \n
+/IEEE Control Systems Letters/ \n
+*Xu Shang*, Jorge Cortes, Yang Zheng
+. [https://ieeexplore.ieee.org/abstract/document/10043007 Emergency collision avoidance and mitigation using model predictive control and artificial potential function] \n
+/IEEE Transactions on Intelligent Vehicles/ \n
+*Xu Shang*, Azim Eskandarian
+
+=== Conference
+. [https://ieeexplore.ieee.org/abstract/document/10645044 Smoothing mixed traffic with robust data-driven predictive control for connected and autonomous vehicles] \n
+/American Control Conference 2024/ \n
+*Xu Shang*, Jiawei Wang, Yang Zheng
+. [https://proceedings.mlr.press/v242/shang24a.html Convex approximations for a bi-level formulation of data-enabled predictive control] \n
+/Learning for Dynamics and Control 2024/ \n
+*Xu Shang*, Yang Zheng
+. [https://ieeexplore.ieee.org/abstract/document/10328041 Safe Planning with Game-Theoretic Formulation, Reachability Analysis and Reinforcement Learning] \n
+/IEEE International Automated Vehicle Validation Conference 2023/ \n
+*Xu Shang*, Shahabedin Sagheb, Azim Eskandarian
+
+=== Book Chapter
+. [https://link.springer.com/chapter/10.1007/978-3-031-64769-7_9 Challenges and Algorithms for Connected and Autonomous Vehicle Safety and Mobility in Smart Cities] \n
+/Transportation Mobility in Smart Cities/ \n
+Azim Eskandarian, Goodarz Mehr, Anshul Nayak and *Xu Shang*
