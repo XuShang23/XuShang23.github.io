@@ -14,6 +14,8 @@ nonlinear systems with high-dimensional measured data and develop efficient opti
 ~~~
 
 === Updates
+- \[5\/2025\] Our paper [https://arxiv.org/abs/2504.06240 Dictionary-free Koopman Predictive Control for Autonomous Vehicles in Mixed Traffic] was accepted for publication 
+in CCTA 2025. Thanks to Prof. [https://www.egr.msu.edu/rival/ Zhaojian Li] and my advisor Prof. [https://zhengy09.github.io/ Yang Zheng].
 - \[11\/2024\] Our paper [https://arxiv.org/abs/2409.16389 Willems’ Fundamental Lemma for Nonlinear Systems with Koopman Linear Embedding] was accepted for publication 
 in the IEEE Control Systems Letters (L-CSS). Thanks to Prof. [http://terrano.ucsd.edu/jorge/ Jorge Cortes] and my advisor Prof. [https://zhengy09.github.io/ Yang Zheng].
 - \[11\/2024\] Our paper [https://arxiv.org/abs/2401.15826 Decentralized Robust Data-driven Predictive Control for Smoothing Mixed Traffic Flow] was accepted for 
